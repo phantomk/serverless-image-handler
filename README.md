@@ -1,4 +1,11 @@
 # AWS Serverless Image Handler Lambda wrapper for Thumbor
+
+## look here!!!
+
+> it is a fork from [awslabs/serverless-image-handler](https://github.com/awslabs/serverless-image-handler), fixed can't format image to png. have fun!!!
+
+---
+
 A solution to dynamically handle images on the fly, utilizing Thumbor (thumbor.org).
 Published version, additional details and documentation are available here: https://aws.amazon.com/answers/web-applications/serverless-image-handler/
 
