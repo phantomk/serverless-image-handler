@@ -35,7 +35,7 @@ setup(
         'pycurl==7.43.0.1',
         'tornado_botocore==1.3.0',
         'requests_unixsocket==0.1.5',
-        'thumbor==6.5.1',
+        'thumbor==6.7.0',
         'thumbor-plugins==0.2.0',
         # SO-SIH-155 - 07/18/2018 - Rekognition integration
         # Adding Rekognition
