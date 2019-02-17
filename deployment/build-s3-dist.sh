@@ -172,6 +172,7 @@ cp -f /usr/lib64/libtiff.so* $VIRTUAL_ENV/bin/lib
 cp -f /usr/lib64/libXt.so* $VIRTUAL_ENV/bin/lib
 cp -f /usr/lib64/libltdl.so* $VIRTUAL_ENV/bin/lib
 cp -f /usr/lib64/libjbig.so* $VIRTUAL_ENV/bin/lib
+cp -f /usr/lib64/libpng*.so* $VIRTUAL_ENV/bin/lib
 #packing all
 cd $VIRTUAL_ENV/lib/python2.7/site-packages
 pwd
